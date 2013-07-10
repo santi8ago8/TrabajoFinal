@@ -14,4 +14,4 @@ Y también he creado otro ejemplo de un chat con el uso de Socket.IO
 [ChatSockets - GitHub](https://github.com/santi8ago8/ChatSockets)  
 
 ###Codigos de la guia.
-[Codigos ejemplo mostrados en la guia](#)
+[Codigos ejemplo mostrados en la guia](https://github.com/santi8ago8/TrabajoFinalCodigos)
